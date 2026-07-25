@@ -25,6 +25,7 @@ print(df["Marks"].mean())
 print(df["Marks"].sum())
 print(df["Marks"].count())
 
+print()
 print(df["Age"].unique())
-print(df["Age"].nunique())
+print(df["Marks"].nunique())
 
