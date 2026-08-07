@@ -1,7 +1,7 @@
 import pandas as pd
 
 employees = {
-      "Name": ["Rohit", "Kabir", "Dev", "Sneha"],
+    "Name": ["Rohit", "Kabir", "Dev", "Sneha"],
     "Joining_Date": [
         "2023-01-15",
         "2022-06-10",
