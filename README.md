@@ -1,87 +1,36 @@
 # AI Journey
 
-Welcome to my AI Journey!
+This repository documents my learning journey in **Artificial Intelligence, Data Science, and Machine Learning**.
 
-This repository documents my learning journey in Artificial Intelligence, Machine Learning, and Data Science. It contains my practice code, notes, mini-projects, and projects as I progress from Python fundamentals to advanced AI concepts.
-
----
-
-## About
-
-I am currently pursuing a Bachelor's degree in Artificial Intelligence & Data Science.
-
-My goal is to build strong programming, problem-solving, and machine learning skills while creating practical projects that prepare me for internships and software engineering roles.
-
----
+It contains my practice code, notes, and projects as I build my skills step by step.
 
 ## Learning Roadmap
 
 ### Completed
 
-- Python Basics
-- Functions
-- Object-Oriented Programming
+- Python
 - NumPy
 - Pandas
 
 ### Currently Learning
 
-- Machine Learning
+- SQL
 
 ### Upcoming
 
 - Statistics
-- Scikit-Learn
+- Machine Learning
+- Scikit-learn
 - Deep Learning
-- Natural Language Processing
+- NLP
 - Computer Vision
 - Generative AI
 
----
-
 ## Repository Structure
 
+```text
 AI-Journey/
-
-├── Python/
-
-├── NumPy/
-
-├── Pandas/
-
-├── Machine-Learning/
-
-├── Projects/
-
+├── 01_python/
+├── 02_numpy/
+├── 03_pandas/
 └── README.md
-
----
-
-## Projects
-
-Projects will be added as I complete each learning milestone.
-
----
-
-## Technologies
-
-- Python
-- NumPy
-- Pandas
-- Jupyter Notebook
-- Git
-- GitHub
-
----
-
-## Goals
-
-- Build a strong AI & ML foundation
-- Complete practical projects
-- Maintain consistent learning
-- Document my progress
-- Prepare for internships and placements
-
----
-
-Thank you for visiting my repository!
