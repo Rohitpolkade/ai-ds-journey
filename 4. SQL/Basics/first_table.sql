@@ -16,3 +16,7 @@ DESCRIBE Students;
 
 SELECT * FROM Students;
 
+INSERT INTO Students(Name, Age, Email, JoinDate)
+VALUES
+('Rohit Polkade', 20, 'rp@email.com', '2026-08-18'),
+('Kabir Polkade', 21, 'kb@email.com', '2026-08-19');
